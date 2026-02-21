@@ -6,5 +6,6 @@ This are where to begin with
 
 - Law: [[Week 1]]
 - Linear Algebra: [[Group theory]]
-- HCI: [[HCI]]
-- Finance: [[Financial/Financial Statements]]
+- Human-Computer Interaction: [[HCI]]
+- Finance: [[Financial Statements]]
+- Networking: [[What is Network]]
