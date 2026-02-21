@@ -9,3 +9,4 @@ This are where to begin with
 - Human-Computer Interaction: [[HCI]]
 - Finance: [[Financial Statements]]
 - Networking: [[What is Network]]
+- System Analysis: [[System Modeling]]
