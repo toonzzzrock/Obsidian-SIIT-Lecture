@@ -1,5 +1,3 @@
----
-
 # Part 1: Comprehensive Key-Value Technical Matrix
 
 This table extracts and classifies the key technical nouns, verbs, concepts, and system artifacts found across all slides and diagrams.

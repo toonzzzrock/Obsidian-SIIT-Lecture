@@ -1,5 +1,3 @@
----
-
 # Part 1: Comprehensive Key-Value Glossary Table
 
 This table captures **every technical noun, keyword, command, and operative verb** appearing across the lecture slides, diagrams, architectural charts, and configuration specs.

@@ -1,8 +1,4 @@
----
-
 # Lecture Master Study Guide: Data Preprocessing (DES431)
-
----
 
 ## 1. Exhaustive Key-Value Knowledge Extraction Table
 
