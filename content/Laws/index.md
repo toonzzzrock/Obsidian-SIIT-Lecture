@@ -1,0 +1,36 @@
+---
+title: Laws
+---
+
+# Laws
+
+- [[Civil Law and Criminal Law]]
+- [[Civil Law system and Common Law system]]
+- [[Constitution of the Kingdom of Thailand]]
+- [[Contract of Sale]]
+- [[copyright]]
+- [[Criminal Law Code of Thailand]]
+- [[Electronic Signature]]
+- [[Electronic transaction]]
+- [[juristic relations]]
+- [[Law Evidence]]
+- [[Law of Tort]]
+- [[Lawsuit]]
+- [[Law vs Ethics]]
+- [[Legal Terms]]
+- [[Patent]]
+- [[Persons involved in a crime]]
+- [[Privacy]]
+- [[Public Law and Private Law]]
+- [[Question2]]
+- [[Questions]]
+- [[Substantive Law and Procedural Law]]
+- [[Substantive Law]]
+- [[Technology]]
+- [[Thai Computer-related Crime Act]]
+- [[Thai Court of Justice]]
+- [[Thai Electronic Transactions]]
+- [[Thai Personal Data Protection Act (PDPA)]]
+- [[The Civil and Commercial Law Code of Thailand]]
+- [[Thing, property, and Intellectual property]]
+- [[Trademark]]
