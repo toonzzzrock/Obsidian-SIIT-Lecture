@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Regenerate content/index.md and one index.md per subject dir under content/.
+# Regenerate one index.md per subject dir under content/ (root content/index.md is hand-maintained, not touched).
 # Usage: ./scripts/gen-index.sh
 set -euo pipefail
 cd "$(dirname "$0")/.."
@@ -15,11 +15,9 @@ is_skipped() {
   return 1
 }
 
-subjects=()
 for d in "$CONTENT"/*/; do
   name="$(basename "$d")"
   is_skipped "$name" && continue
-  subjects+=("$name")
 
   out="$d/index.md"
   {
@@ -36,19 +34,3 @@ for d in "$CONTENT"/*/; do
   } > "$out"
   echo "wrote $out"
 done
-
-IFS=$'\n' subjects=($(sort <<<"${subjects[*]}"))
-unset IFS
-
-{
-  echo "---"
-  echo "title: Welcome to My Obsidian"
-  echo "---"
-  echo
-  echo "This are where to begin with"
-  echo
-  for name in "${subjects[@]}"; do
-    echo "- $name: [[$name/index|$name]]"
-  done
-} > "$CONTENT/index.md"
-echo "wrote $CONTENT/index.md"
